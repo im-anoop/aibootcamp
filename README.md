@@ -1,4 +1,4 @@
-🚀 AI Development Training Bootcamp
+# 🚀 AI Development Training Bootcamp
 From Day 0 to Advanced AI Agent Development
 
 Welcome to the AI Development Training Bootcamp — a hands-on learning journey designed to explore the world of Artificial Intelligence, starting from the fundamentals and progressing toward advanced AI application and AI agent development.
@@ -7,11 +7,11 @@ I'm Anoop Kumar, and this repository is where I share my AI learning journey, pr
 
 My goal is to make AI development easier to understand by learning step by step, building real-world projects, and sharing what I learn with the developer community.
 
-🎯 What Is This Repository About?
+## 🎯 What Is This Repository About?
 
 This repository documents my journey into AI development, from the basics of programming to building intelligent applications powered by modern AI technologies.
 
-Here, you'll find:
+###Here, you'll find:
 
 📚 Learning resources and technical notes
 💻 Python code examples and hands-on exercises
@@ -24,8 +24,8 @@ Here, you'll find:
 
 This is a continuously evolving repository that grows as I learn, experiment, and build.
 
-🗺️ Learning Roadmap
-Phase 1: Programming Fundamentals
+#### 🗺️ Learning Roadmap
+#### Phase 1: Programming Fundamentals
 
 Build a strong foundation for AI development.
 
@@ -35,7 +35,7 @@ Data structures and object-oriented programming
 Modules, packages, and virtual environments
 Git and GitHub fundamentals
 Writing clean, maintainable Python code
-Phase 2: Data Science and AI Fundamentals
+#### Phase 2: Data Science and AI Fundamentals
 
 Understand the concepts behind intelligent systems.
 
@@ -45,7 +45,7 @@ Mathematics and statistics for AI
 Introduction to Artificial Intelligence
 Machine Learning fundamentals
 Model training, evaluation, and experimentation
-Phase 3: Generative AI and Large Language Models
+#### Phase 3: Generative AI and Large Language Models
 
 Learn how to build applications using modern generative AI technologies.
 
@@ -56,7 +56,7 @@ Working with AI model APIs
 Structured outputs and tool calling
 Embeddings and vector databases
 Retrieval-Augmented Generation (RAG)
-Phase 4: AI Application Development
+#### Phase 4: AI Application Development
 
 Turn AI concepts into useful applications.
 
@@ -67,7 +67,7 @@ Managing context and conversation history
 Document processing and question-answering systems
 Error handling, testing, and debugging
 Deploying AI applications
-Phase 5: AI Agents and Agentic AI
+#### Phase 5: AI Agents and Agentic AI
 
 Progress toward building intelligent systems that can reason, use tools, and execute tasks.
 
@@ -80,7 +80,7 @@ Multi-agent systems and collaboration
 Workflow orchestration
 Human-in-the-loop systems
 Agent evaluation, reliability, and safety
-Phase 6: Advanced AI Engineering
+#### Phase 6: Advanced AI Engineering
 
 Explore the practices needed to build more reliable, scalable AI systems.
 
@@ -94,7 +94,7 @@ End-to-end AI projects
 
 The roadmap will evolve as I explore new tools, techniques, and developments in AI.
 
-🧪 Hands-On Learning Approach
+#### 🧪 Hands-On Learning Approach
 
 This bootcamp focuses on learning by doing.
 
@@ -108,7 +108,7 @@ Share — Document lessons and make learning accessible to others.
 
 The goal is not just to understand AI concepts, but to develop the practical skills needed to build AI-powered applications.
 
-🛠️ Technologies and Tools
+#### 🛠️ Technologies and Tools
 
 The technologies used in this repository will grow throughout the learning journey.
 
@@ -124,7 +124,7 @@ Development	VS Code, Python Virtual Environments
 
 Tools are added as they become relevant to the projects and topics being explored.
 
-📂 Repository Structure
+#### 📂 Repository Structure
 
 The repository will be organized as the bootcamp expands.
 
@@ -144,7 +144,7 @@ aibootcamp/
 
 The directories above represent a suggested future structure; only add them as you create the corresponding content.
 
-🚀 Getting Started
+#### 🚀 Getting Started
 Prerequisites
 Python 3
 Git
@@ -172,7 +172,7 @@ Install additional dependencies as required by each project. If a requirements.t
 
 pip install -r requirements.txt
 
-📈 Learning Progress
+#### 📈 Learning Progress
 
 This repository represents an ongoing learning journey.
 
@@ -187,7 +187,7 @@ Build advanced end-to-end AI projects
 
 Progress will be updated as new topics and projects are completed.
 
-🤝 Who Is This For?
+#### 🤝 Who Is This For?
 
 This repository is intended for:
 
@@ -199,7 +199,7 @@ Anyone who wants to learn by studying practical examples
 
 You don't need to know everything about AI to get started. Curiosity, consistency, and a willingness to experiment are enough to begin.
 
-🌱 My Mission
+#### 🌱 My Mission
 
 I believe the best way to learn something deeply is to build with it and share what you discover.
 
@@ -207,17 +207,17 @@ Through this repository, I aim to document my progress, simplify complex concept
 
 This is more than a collection of code — it's a growing record of my journey toward becoming a better AI developer.
 
-👨‍💻 About Me
+#### 👨‍💻 About Me
 
 Anoop Kumar
 
-AI Development Learner | Python Developer | Exploring Generative AI and AI Agents
+AI Development Learner | Backend Engineer | Exploring Generative AI and AI Agents
 
 I'm learning, building, experimenting, and sharing my knowledge as I progress from foundational programming to advanced AI development.
 
 GitHub: @im-anoop
 Repository: AI Development Training Bootcamp
-⭐ Follow the Journey
+#### ⭐ Follow the Journey
 
 If you're interested in AI development, feel free to explore the repository, learn alongside me, and follow the journey as new code, concepts, and projects are added.
 
