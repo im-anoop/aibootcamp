@@ -11,7 +11,7 @@ My goal is to make AI development easier to understand by learning step by step,
 
 This repository documents my journey into AI development, from the basics of programming to building intelligent applications powered by modern AI technologies.
 
-###Here, you'll find:
+### Here, you'll find:
 
 📚 Learning resources and technical notes
 💻 Python code examples and hands-on exercises
