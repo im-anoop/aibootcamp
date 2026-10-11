@@ -1,4 +1,4 @@
-# 🚀 AI Development Training Bootcamp
+# 🚀 AI Development Bootcamp
 From Day 0 to Advanced AI Agent Development
 
 Welcome to the AI Development Training Bootcamp — a hands-on learning journey designed to explore the world of Artificial Intelligence, starting from the fundamentals and progressing toward advanced AI application and AI agent development.
